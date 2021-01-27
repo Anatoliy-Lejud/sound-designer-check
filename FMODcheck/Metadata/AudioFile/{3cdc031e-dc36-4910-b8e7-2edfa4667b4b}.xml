@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{3cdc031e-dc36-4910-b8e7-2edfa4667b4b}">
+		<property name="assetPath">
+			<value>Creature Attack Axed To Death.mp3</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>3.030204081632653</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{4d477cf1-b159-4109-b00d-353ce7814235}</destination>
+		</relationship>
+	</object>
+</objects>

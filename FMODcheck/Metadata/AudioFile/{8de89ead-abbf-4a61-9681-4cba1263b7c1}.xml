@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{8de89ead-abbf-4a61-9681-4cba1263b7c1}">
+		<property name="assetPath">
+			<value>LejuD - Kotla.mp3</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>34.011428571428574</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{4d477cf1-b159-4109-b00d-353ce7814235}</destination>
+		</relationship>
+	</object>
+</objects>
